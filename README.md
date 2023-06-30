@@ -1,15 +1,5 @@
 # finalCapstone
-This is for BYB5 Compulsory Task 2
- **Creating a new GitHub repository* 
- **How to push a new repository to an existing repository*
- **How to write a detailed README.md*
- **Installation of finalCapstone 
-
-Every repo contains a README, which is a document that is intended to explain, at first glance, what a project does and how to install or test the code.
-
-READMEs are really important because they’re the first item a user will see when encountering your code. Creating a readable README ensures that your co-workers and the public will be able to understand the intention of your program, install the software, and fork and adapt your projects.
-
-We find it helpful to think of the README as a guide to your code or project. It’s often helpful to create sections in the README for users to learn about the project. We recommend the following sections.
+This project is to learn and understand the basis of GitHub
 
 ## A description of what the project is for.
 * **This is for BYB5 compulsory Task 2**
